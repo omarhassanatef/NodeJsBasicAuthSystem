@@ -1,0 +1,15 @@
+{
+
+    "development": {
+        
+        "MONGODB_URI": "",
+        "JWT_SECRET": "5ss2xhtlq11"
+    },
+    "production":{
+        "MONGODB_URI": "",
+        "JWT_SECRET": "5ss2xhtlq11"
+    } 
+
+
+
+}
